@@ -1,1 +1,2 @@
 Git essentials demo.
+An edit from remote, GitHub
